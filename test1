@@ -4,7 +4,7 @@ pragma solidity ^0.7.0;
 
 import "../../utils/Context.sol";
 import "./IERC20.sol";
-import "../../math/SafeMath.sol";
+import "https://github.com/maxpeh/maxpeh/blob/main/safemath";
 
 /**
  * @dev Implementation of the {IERC20} interface.
